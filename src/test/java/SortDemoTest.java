@@ -1,5 +1,13 @@
 package test.java;
 
+/*
+ * File: SortDemoTest.java
+ * Author: Dr. Mehlhase, Devin Forrester
+ * Date: 11/5/2018
+ * 
+ * Description: JUnit5 test class
+*/
+
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 
