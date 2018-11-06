@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JUnit Jupiter" tests="5" skipped="0" failures="0" errors="0" time="0.093" hostname="DESKTOP-IPSKLCT" timestamp="2018-11-05T19:25:12">
+<testsuite name="JUnit Jupiter" tests="5" skipped="0" failures="0" errors="0" time="0.103" hostname="DESKTOP-IPSKLCT" timestamp="2018-11-05T20:01:57">
 <properties>
 <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
 <property name="file.encoding" value="windows-1252"/>
@@ -57,28 +57,28 @@
 <property name="user.timezone" value="America/Los_Angeles"/>
 <property name="user.variant" value=""/>
 </properties>
-<testcase name="NoNumber()" classname="test.java.SortDemoTest" time="0.018">
-<system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
-display-name: NoNumber()
-]]></system-out>
-</testcase>
-<testcase name="NoSuchElem()" classname="test.java.SortDemoTest" time="0.001">
-<system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
-display-name: NoSuchElem()
-]]></system-out>
-</testcase>
-<testcase name="NonIntegerValue()" classname="test.java.SortDemoTest" time="0.001">
+<testcase name="NonIntegerValue()" classname="test.java.SortDemoTest" time="0.015">
 <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NonIntegerValue()]
 display-name: NonIntegerValue()
 ]]></system-out>
 </testcase>
-<testcase name="testNumber()" classname="test.java.SortDemoTest" time="0.018">
+<testcase name="NoSuchElem()" classname="test.java.SortDemoTest" time="0.002">
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
+display-name: NoSuchElem()
+]]></system-out>
+</testcase>
+<testcase name="testNumber()" classname="test.java.SortDemoTest" time="0.02">
 <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:testNumber()]
 display-name: testNumber()
+]]></system-out>
+</testcase>
+<testcase name="NoNumber()" classname="test.java.SortDemoTest" time="0.001">
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
+display-name: NoNumber()
 ]]></system-out>
 </testcase>
 <testcase name="negativeArraySize()" classname="test.java.SortDemoTest" time="0.002">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="DESKTOP-IPSKLCT" id="0" name="JUnit Jupiter" package="" skipped="0" tests="5" time="0.093" timestamp="2018-11-05T19:25:12">
+  <testsuite errors="0" failures="0" hostname="DESKTOP-IPSKLCT" id="0" name="JUnit Jupiter" package="" skipped="0" tests="5" time="0.103" timestamp="2018-11-05T20:01:57">
     <properties>
       <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
 
@@ -112,23 +112,7 @@
 
     </properties>
 
-    <testcase classname="test.java.SortDemoTest" name="NoNumber()" time="0.018">
-      <system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
-display-name: NoNumber()
-]]></system-out>
-
-    </testcase>
-
-    <testcase classname="test.java.SortDemoTest" name="NoSuchElem()" time="0.001">
-      <system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
-display-name: NoSuchElem()
-]]></system-out>
-
-    </testcase>
-
-    <testcase classname="test.java.SortDemoTest" name="NonIntegerValue()" time="0.001">
+    <testcase classname="test.java.SortDemoTest" name="NonIntegerValue()" time="0.015">
       <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NonIntegerValue()]
 display-name: NonIntegerValue()
@@ -136,10 +120,26 @@ display-name: NonIntegerValue()
 
     </testcase>
 
-    <testcase classname="test.java.SortDemoTest" name="testNumber()" time="0.018">
+    <testcase classname="test.java.SortDemoTest" name="NoSuchElem()" time="0.002">
+      <system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
+display-name: NoSuchElem()
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="test.java.SortDemoTest" name="testNumber()" time="0.02">
       <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:testNumber()]
 display-name: testNumber()
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="test.java.SortDemoTest" name="NoNumber()" time="0.001">
+      <system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
+display-name: NoNumber()
 ]]></system-out>
 
     </testcase>
@@ -158,7 +158,7 @@ display-name: JUnit Jupiter
 ]]></system-out>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="DESKTOP-IPSKLCT" id="1" name="JUnit Vintage" package="" skipped="0" tests="0" time="0.01" timestamp="2018-11-05T19:25:11">
+  <testsuite errors="0" failures="0" hostname="DESKTOP-IPSKLCT" id="1" name="JUnit Vintage" package="" skipped="0" tests="0" time="0.008" timestamp="2018-11-05T20:01:57">
     <properties>
       <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
 

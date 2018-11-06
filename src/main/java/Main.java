@@ -1,17 +1,14 @@
 package main.java;
 
-/*
- * File: Main.java
- * Author: Dr. Mehlhase, Devin Forrester
- * Date: 11/5/2018
- * 
- * Description: main method for running the program.
- */
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.NoSuchElementException;
 
+/**
+ * main method for running the program.
+ * @author amehlhas
+ *
+ */
 final class Main {
 	/**
 	 * All methods should have a Javadoc according to STYLE.
