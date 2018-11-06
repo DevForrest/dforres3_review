@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JUnit Vintage" tests="0" skipped="0" failures="0" errors="0" time="0.01" hostname="DESKTOP-IPSKLCT" timestamp="2018-11-05T19:25:11">
+<testsuite name="JUnit Vintage" tests="0" skipped="0" failures="0" errors="0" time="0.008" hostname="DESKTOP-IPSKLCT" timestamp="2018-11-05T19:43:41">
 <properties>
 <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
 <property name="file.encoding" value="windows-1252"/>
